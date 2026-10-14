@@ -410,3 +410,11 @@ a:hover {
   font-weight: 600;
   text-decoration: none;
 }
+.footer-email {
+  cursor: default;
+  transition: 0.3s;
+}
+
+.footer-email:hover {
+  background-color: var(--dark-gray);
+}
